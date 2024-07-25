@@ -1,0 +1,22 @@
+
+@font-face {
+    font-family: 'title';
+    src: url('../FONTS/Monoton-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'scl';
+    src: url('../FONTS/Dosis-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'scl-title';
+    src: url('../FONTS/OstrichSans-Bold.otf');
+}
+
+:root 
+{
+    --background-color: #FDFFEF;
+    --button-color: #EEC355;
+    --black-color: #161312;
+}
